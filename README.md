@@ -19,5 +19,5 @@ The editor computes the genus and dollar sum, as the numberphile video (https://
 
 ## Game
 
-When you hover a node you see all edges playing a role, left click means giving dollors, right click taking dollars.
-A game ends if all nodes are non-negative.
+When you hover a node you see all edges playing a role, left click means donating dollars, right click receiving dollars.
+A game ends if all nodes are out of debt.
