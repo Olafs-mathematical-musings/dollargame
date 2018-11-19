@@ -9,7 +9,7 @@ You need:
 
 The game and editor should be intuitively usable
 
-##Editor
+## Editor
 
 Colors indicate what you get when you click: What is drawn green will be added to the game graph, what is red will be removed. What is white can be dragged or edited, i.e. the node dollar amount can be decremented with left click, incremented with right click. New nodes are added with an edge to the last node.
 
@@ -17,7 +17,7 @@ To remove a node you need to delete all edges to it. You can create a separation
 
 The editor computes the genus and dollar sum, as the numberphile video says, the game is solvable, if the amount of dollars is at least the genus of the graph.
 
-##Game
+## Game
 
 When you hover a node you see all edges playing a role, left cleck means giving dollors, right click taking dollars.
 A game ends if all nodes are non negative.
