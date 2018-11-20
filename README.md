@@ -2,7 +2,7 @@
 The dollar game as shown on numberphile (youtube channel)
 
 You need:
-- poython (3.5+) (https://www.python.org/downloads/)
+- Python (3.5+) (https://www.python.org/downloads/)
 - pygame (https://www.pygame.org) - I recommend to install pip for installations
 - this repository (dollargame.py, brownpaper.jpg, Kalam.ttf or Kalam.woff2)
 - any non standard python modules I forgot to mention
